@@ -15,13 +15,6 @@
 git clone https://github.com/Amir-Mahdi-Barati/Fractal-Tree.git
 cd Fractal-Tree
 
-```
-2.**Install required package:**
-
-```bash
-pip install pillow
-```
-
 ```bash
 python fractal_tree.py
 ```
@@ -49,14 +42,14 @@ tree = FractalTree(
     bg_color='#2C3E50'
 )
 Autumn Theme
-python
+
 tree = FractalTree(
     trunk_color='#8B4513',
     leaf_colors=['#FFD700', '#FF8C00', '#FF4500'],
     bg_color='#F5F5DC'
 )
 Custom Large Tree
-python
+
 tree = FractalTree(
     canvas_width=1400,
     canvas_height=900,
