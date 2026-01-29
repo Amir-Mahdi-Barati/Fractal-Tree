@@ -1,5 +1,8 @@
 # 🌳 Fractal Tree Generator 
-
+<img src="https://github.com/Amir-Mahdi-Barati/fractal-tree/fractal_tree_img.png" 
+     alt="Fractal Tree Generator" 
+     width="400" 
+     height="400" />
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-green)
@@ -14,10 +17,11 @@
 ```bash
 git clone https://github.com/Amir-Mahdi-Barati/Fractal-Tree.git
 cd Fractal-Tree
-
+```
 ```bash
 python fractal_tree.py
 ```
+    
 
 **⚙️ Parameters**
 Tree Structure Parameters
