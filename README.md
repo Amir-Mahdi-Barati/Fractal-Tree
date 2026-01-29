@@ -1,5 +1,5 @@
 # 🌳 Fractal Tree Generator 
-<img src="https://github.com/Amir-Mahdi-Barati/fractal-tree/fractal_tree_img.png" 
+<img src="https://github.com/Amir-Mahdi-Barati/Fractal-Tree/blob/main/fractal_tree_img.png" 
      alt="Fractal Tree Generator" 
      width="400" 
      height="400" />
