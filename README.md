@@ -14,19 +14,16 @@
 ```bash
 git clone https://github.com/Amir-Mahdi-Barati/Fractal-Tree.git
 cd Fractal-Tree
-Install required package:
+
 ```
 2.**Install required package:**
 
 ```bash
 pip install pillow
-Run the application:
 ```
 
 ```bash
 python fractal_tree.py
-Prerequisites
-Python 3.12 or higher
 ```
 
 **⚙️ Parameters**
