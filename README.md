@@ -1,8 +1,5 @@
 # 🌳 Fractal Tree Generator 
-<img src="https://github.com/Amir-Mahdi-Barati/Fractal-Tree/blob/main/fractal_tree_img.png" 
-     alt="Fractal Tree Generator" 
-     width="400" 
-     height="400" />
+
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![GUI](https://img.shields.io/badge/GUI-Tkinter-green)
@@ -130,3 +127,8 @@ Day/Night mode toggle
 Wind animation effect
 
 3D visualization mode
+
+<img src="https://github.com/Amir-Mahdi-Barati/Fractal-Tree/blob/main/fractal_tree_img.png" 
+     alt="Fractal Tree Generator" 
+     width="400" 
+     height="400" />
